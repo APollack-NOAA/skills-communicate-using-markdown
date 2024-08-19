@@ -8,3 +8,12 @@ I am regular text.
 I am regular text.
 
 ![Image of Scubatocat](https://octodex.github.com/images/scubatocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
